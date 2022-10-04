@@ -2,7 +2,7 @@
   "name": "serv",
   "version": "1.0.0",
   "description": "cripto",
-  "main": "app.js",
+  "main": "server.js",
   "dependencies": {
     "accepts": "^1.3.8",
     "array-flatten": "^1.1.1",
