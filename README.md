@@ -2,6 +2,7 @@
 Hello.
 
 This project was created for Node.js Onix Internship 2022.
+
 The task is create server with one route, that will return current USD rate for cryptocurrency provided as parameter.
 
 Example input:
@@ -17,5 +18,6 @@ Example output:
  "scripts": {
     "test": "test",
     "start": "node server.js"},
+    
   "author": "Boyko Vladidmir",
   "license": "ISC"
